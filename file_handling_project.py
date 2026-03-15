@@ -131,7 +131,9 @@ def delete_file():
 
     
 while True:
-    print("Hey! choose one option to test me...... ")
+    print("~"*50)
+    print("FILE AND FOLDER HANDLING")
+    print("~"*50)
     print("1. for creating a folder.")
     print("2. for reading a folder.")
     print("3. for updating a folder.")
@@ -141,6 +143,7 @@ while True:
     print("7. for updating a file.")
     print("8. for deleting a file.")
     print("0. for Exit the programe")
+    print("~"*50)
 
     choice = int(input("Please,enter you choice : "))
 
