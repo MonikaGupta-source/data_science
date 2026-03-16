@@ -19,10 +19,11 @@ A terminal-based File and Folder Management System built using **Python** — pe
 - ❌ Delete a file
 
 ---
+## Screenshot
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 
